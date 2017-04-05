@@ -1,4 +1,4 @@
-package edu.gmu.swe622.lab6;
+package edu.gmu.swe622.lab7;
 
 import java.io.File;
 import java.io.IOException;
@@ -19,7 +19,7 @@ import org.apache.curator.test.TestingZooKeeperServer;
  * @author jon
  *
  */
-public class LockServer {
+public class ZKServer {
 
 	public static void main(String[] args) throws Exception {
 

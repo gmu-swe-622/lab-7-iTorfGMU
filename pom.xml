@@ -3,15 +3,15 @@
 	<name>lab5-parent</name>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.gmu.swe622</groupId>
-	<artifactId>lab6-parent</artifactId>
+	<artifactId>lab7-parent</artifactId>
 	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 	<modules>
-		<module>addressbook-client</module>
-		<module>lock-server</module>
+		<module>member-client</module>
+		<module>zk-server</module>
 	</modules>
 	<build>
 		<plugins>
